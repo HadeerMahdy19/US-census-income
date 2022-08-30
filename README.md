@@ -8,15 +8,15 @@ allocates the seats of the U.S. House of Representatives to the states based on 
 Bureau's various censuses and surveys help allocate over $675 billion in federal funds every year and
 it helps states, local communities, and businesses make informed decisions. The information provided
 by the census informs decisions on where to build and maintain schools, hospitals, transportation
-infrastructure, and police and fire departments.
+infrastructure, and police and fire departments.<br>
 
 ## Goal :goal_net:	
-Analyze, Clean and Model the data to predict --income-- column using Machine learning
+Analyze, Clean and Model the data to predict --income-- column using Machine learning<br>
 
 ## output :heavy_check_mark:	
-89% accuracy using Random forest
+89% accuracy using Random forest<br>
 
 ## Future work :eyeglasses:	
-1- Further data preprocessing 
-2- Further analysis of result
+1- Further data preprocessing <br>
+2- Further analysis of result<br>
 3- Use xgboost regressor or other models to improve results
