@@ -13,7 +13,7 @@ infrastructure, and police and fire departments.<br>
 ## Goal :goal_net:	
 Analyze, Clean and Model the data to predict --income-- column using Machine learning<br>
 
-## output :heavy_check_mark:	
+## Output :heavy_check_mark:	
 89% accuracy using Random forest<br>
 
 ## Future work :eyeglasses:	
